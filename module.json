@@ -14,5 +14,7 @@
     },
     "esmodules": [
         "scripts/tstHelloWorld.js"
-    ]
+    ],
+    "url": "https://github.com/ScorpioGameKing/BetterNPCs",
+    "manifest": "https://github.com/ScorpioGameKing/BetterNPCs/blob/master/module.json"
 }
