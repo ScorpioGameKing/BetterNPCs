@@ -1,5 +1,5 @@
 {
-    "name": "betterNPCs",
+    "id": "betterNPCs",
     "title": "Better NPCs - Make em' do stuff!",
     "description": "A framework for creating and running automated NPC routines",
     "authors": [
