@@ -14,4 +14,3 @@ The second and ultimate goal would be to then implement ChatGPT functionality to
 A profile can be as simple as an NPC's attitude or more complex including backstories, interests, alignment and so on. By creating a profile for the NPC's the GM can be as strict or loose with an NPC's story and let GPT go from there. Continuing from that all you'd need to do is store conversations and allow them to be referenced by later prompts allowing for NPC's to have memories.
 
 Now then enough with the fluff talk and ideal situations now I need to actually try and code the thing.
-
