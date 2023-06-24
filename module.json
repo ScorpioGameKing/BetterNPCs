@@ -7,7 +7,7 @@
     "minimumCoreVersion": "10",
     "compatibleCoreVersion" : "10",
     "esmodules": [
-      "/scripts/tstHelloWorld"
+      "/scripts/tstHelloWorld.js"
     ],
     "url": "https://github.com/ScorpioGameKing/BetterNPCs",
     "manifest": "https://raw.githubusercontent.com/ScorpioGameKing/BetterNPCs/master/module.json",
