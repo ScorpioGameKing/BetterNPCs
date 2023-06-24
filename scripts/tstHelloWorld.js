@@ -7,3 +7,4 @@ Hooks.on("init", function() {
 Hooks.on("ready", function() {
     console.log("Hello World from DATA READY");    
 });
+
